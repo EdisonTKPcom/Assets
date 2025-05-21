@@ -1,5 +1,9 @@
 {
     "operatorId": "SYSTEM",
+    "name": "DF Policy",
+    "symbol": "DFP",
+    "description": "Insurance Policy",
+    "image": "https://raw.githubusercontent.com/EdisonTKPcom/Assets/main/DF_logo.png",
     "modifiedDate": "22/04/2025 18:23:22",
     "clientModel": {
         "operatorId": null,
